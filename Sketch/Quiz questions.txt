@@ -1,0 +1,32 @@
+Topic: Soccer
+
+Questions:
+1- Which country invented soccer?
+	-South Africa
+	-Japan
+	-England
+	-Germany - true
+
+2-What is the winnest world cup country?
+	-Brazil - true
+	-Argentina
+	-Germany
+	-France
+
+3-Who is known as the ‘King’ of soccer?
+	-Messi
+	-Pele - true
+	-Cristiano Ronaldo
+	-Xavi
+
+4-Who was the winner of the last edition of the world cup in 2018?
+	-United States
+	-Germany
+	-Brazil
+	-France - true
+
+5-Where will the 2022 World Cup take place?
+	-Australia
+	-Colombia
+	-Qatar - true
+	-France
