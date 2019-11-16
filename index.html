@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta
+      name="description"
+      content="Soccer Quiz, about soccer, questions about soccer, quiz"
+    />
+    <link rel="shortcut icon" href="#" />
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <title>Soccer Quiz</title>
+  </head>
+  <body>
+    <header>
+      <h1>Soccer Quiz</h1>
+      <div class="question-score-tracker"></div>
+    </header>
+
+    <main aria-live="assertive">
+      <fieldset>
+        <section class="intro">
+          <h3>
+            Your knowledge about Soccer is about to be tested. Let's see how
+            good you are!
+          </h3>
+        </section>
+        <button type="radio" id="start-button">Start</button>
+      </fieldset>
+
+      <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+      <script src="store.js"></script>
+      <script src="app.js"></script>
+    </main>
+  </body>
+</html>
